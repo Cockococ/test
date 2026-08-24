@@ -1,10 +1,12 @@
 ERROR = {
+    /////
+////
     "signup_exist": {
         "en": "Username already exists, please try again",
         "vi": "Tài khoản này đã tồn tại, xin vui lòng thử lại"
     },
     "signup_blank": {
-        "en": "Username cannot be blank, please try again",
+        "en": "cannot be blank, please try again",
         "vi": "Tên tài khoản không được để trống, xin vui lòng thử lại"
     },
     "signup_failed": {
@@ -282,3 +284,4 @@ ERROR = {
         "vi": "Xoá video khỏi cơ sở dữ liệu nhưng không tìm thấy file"
     }
 }
+#hello
